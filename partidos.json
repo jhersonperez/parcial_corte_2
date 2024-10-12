@@ -1,0 +1,72 @@
+{
+    "partidos_jugados": [
+        {
+            "id_partido": 1,
+            "fecha_partido": "",
+            "hora_inicio": "",
+            "minutos_extras": "",
+            "estadio": "",
+            "marcador_final": "2-4",
+            "numero_camiseta": 9,
+            "goles_anotados": [
+                {
+                    "tiempo": "primer tiempo",
+                    "minuto": 15,
+                    "hora": "8:40"
+                }
+            ],
+            "tarjetas_amarillas": [
+                {
+                    "tiempo": "segundo tiempo",
+                    "minuto": 60,
+                    "hora": "9:10"
+                }
+            ],
+            "tarjetas_rojas": [
+                {
+                    "tiempo": "",
+                    "minuto": "",
+                    "hora": ""
+                }
+            ],
+            "faltas_cometidas": [
+                {
+                    "tiempo": "",
+                    "minuto": "",
+                    "hora": ""
+                }
+            ],
+            "tiros_libres_cobrados": [
+                {
+                    "tiempo": "",
+                    "minuto": "",
+                    "hora": ""
+                }
+            ],
+            "tiros_de_esquina_cobrados": [
+                {
+                    "tiempo": "",
+                    "minuto": "",
+                    "hora": ""
+                }
+            ],
+            "arbito": [
+                {
+                    "nombre_arbito": "",
+                    "nacionalidad": "",
+                    "tipo": "central"
+                },
+                {
+                    "nombre_arbito": "",
+                    "nacionalidad": "",
+                    "tipo": "lateral derecha"
+                },
+                {
+                    "nombre_arbito": "",
+                    "nacionalidad": "",
+                    "tipo": "lateral izquierda"
+                }
+            ]
+        }
+    ]
+}
