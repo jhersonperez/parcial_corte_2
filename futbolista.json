@@ -1,0 +1,35 @@
+{
+    "futbolistas": {
+        "id_futbolista": 11111,
+        "nombre_futbolista": "nom futbolista",
+        "nacionalidad": "",
+        "activo": true,
+        "posicion": "posicion de juego"
+    },
+    "estadistica_del_jugador": {
+        "total_partidos": 10,
+        "total_goles": 12,
+        "total_tarjeta_amarilla": 2,
+        "total_tarjeta_roja": 1,
+        "total_faltas_cometidas": 4,
+        "total_tiros_libres": 4,
+        "total_tiros_ezquina": 3
+    },
+    "historico_equipos": [
+        {
+            "nombre_equipo_1": "nombre_equipo_1",
+            "periodo_estancia": {
+                "inici": "",
+                "fin": ""
+            }
+        },
+        {
+            "nombre_equipo_1": "nombre_equipo_2",
+            "periodo_estancia": {
+                "inici": "",
+                "fin": ""
+            }
+        }
+    ],
+    "partidos": "id_partido"
+}
