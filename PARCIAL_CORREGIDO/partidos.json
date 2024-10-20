@@ -1,0 +1,117 @@
+{
+    "id_partido": 1,
+    "fecha_partido": "",
+    "hora_inicio": "",
+    "minutos_extras": "",
+    "estadio": "",
+    "equipo_local": {
+        "id_equipo": 121212,
+        "jugadores_convocados": [
+            {
+                "id_jugador": 1111
+            },
+            {
+                "id_jugador": 2222
+            },
+            {
+                "id_jugador": 3333
+            }
+        ],
+        "jugadores_no_convocados": [
+            {
+                "id_jugador": 4444
+            },
+            {
+                "id_jugador": 5555
+            }
+        ]
+    },
+    "equipo_visitante": {
+        "id_equipo": 131313,
+        "jugadores": [
+            {
+                "id_jugador": 6666
+            },
+            {
+                "id_jugador": 7777
+            },
+            {
+                "id_jugador": 8888
+            }
+        ],
+        "jugadores_no_convocados": [
+            {
+                "id_jugador": 9999
+            }
+        ]
+    },
+    "goles_anotados": [
+        {
+            "id_equipo": 121212,
+            "id_futbolista": 11111,
+            "tiempo": "primer tiempo",
+            "minuto": 15,
+            "hora": "8:40"
+        }
+    ],
+    "tarjetas_amarillas": [
+        {
+            "id_equipo": 121212,
+            "id_futbolista": 11111,
+            "tiempo": "segundo tiempo",
+            "minuto": 60,
+            "hora": "9:10"
+        }
+    ],
+    "tarjetas_rojas": [
+        {
+            "id_equipo": 121212,
+            "id_futbolista": 11111,
+            "tiempo": "",
+            "minuto": "",
+            "hora": ""
+        }
+    ],
+    "faltas_cometidas": [
+        {
+            "id_futbolista": 11111,
+            "tiempo": "",
+            "minuto": "",
+            "hora": ""
+        }
+    ],
+    "tiros_libres_cobrados": [
+        {
+            "id_equipo": 121212,
+            "tiempo": "",
+            "minuto": "",
+            "hora": ""
+        }
+    ],
+    "tiros_de_esquina_cobrados": [
+        {
+            "id_equipo": 121212,
+            "id_futbolista": 11111,
+            "tiempo": "",
+            "minuto": "",
+            "hora": ""
+        }
+    ],
+    "arbito": [
+        {
+            "nombre_arbito": "",
+            "nacionalidad": "",
+            "tipo": "central"
+        },
+        {
+            "nombre_arbito": "",
+            "nacionalidad": "",
+            "tipo": "lateral derecha"
+        },
+        {
+            "nombre_arbito": "",
+            "nacionalidad": "",
+            "tipo": "lateral izquierda"
+        }
+    ]
+}
