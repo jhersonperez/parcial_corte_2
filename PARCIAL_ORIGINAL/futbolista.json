@@ -4,6 +4,7 @@
         "nombre_futbolista": "nom futbolista",
         "nacionalidad": "",
         "activo": true,
+        "":"",
         "posicion": "posicion de juego"
     },
     "estadistica_del_jugador": {
